@@ -1,4 +1,4 @@
-package com.defaultpackage.interactions;
+package com.defaultpackage.questions;
 
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
