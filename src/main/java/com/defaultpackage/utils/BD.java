@@ -15,5 +15,9 @@ public class BD {
         
     }
 
+    public void otherMethod(){
+        
+    }
+
 
 }
